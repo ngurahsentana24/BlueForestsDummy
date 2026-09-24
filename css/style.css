@@ -65,7 +65,7 @@ h1,h2,h3,h4{margin:0;line-height:1.2}
 .public-bar{background:var(--mangrove);color:#fff;text-align:center;padding:6px;font-size:13px}
 .public-bar button{background:#fff;color:var(--mangrove);border:0;border-radius:999px;padding:2px 10px;margin-left:8px;cursor:pointer;font-weight:700}
 
-.content{padding:24px 28px 80px;max-width:1440px;width:100%}
+.content{padding:24px 28px 80px;width:100%;flex:1}
 .page-head{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:18px}
 .page-head h1{font-size:26px;font-weight:800;letter-spacing:-.3px}
 .page-head p{margin:4px 0 0;color:var(--muted);max-width:70ch}
